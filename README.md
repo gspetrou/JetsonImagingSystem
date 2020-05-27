@@ -1,7 +1,7 @@
 
 # Imaging System
 
-Captures some images, saves them somewhere, and sends them with telemetry data via HTTP to an address. Telemetry data isn't finished yet but adding your own telemetry source should not be hard at all.
+Captures some images, saves them somewhere, and sends them with telemetry data to a web address. Telemetry data isn't finished yet but adding your own telemetry source should not be hard at all.
 
 I originally made this for [Penn State UAS](https://uas.engr.psu.edu).
 
