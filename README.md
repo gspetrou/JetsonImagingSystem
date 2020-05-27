@@ -3,11 +3,11 @@
 
 Captures some images, saves them somewhere, and sends them with telemetry data to a web address. Telemetry data isn't finished yet but adding your own telemetry source should not be hard at all.
 
-I originally made this for [Penn State UAS](https://uas.engr.psu.edu).
+I originally made this for [Penn State UAS](https://uas.engr.psu.edu). It was designed and primarily tested with an Nvidia Jetson TX2 on a Leopard Imaging LI-TX1-CB carrier board with Leopard Imaging LI-IMX377-MIPI-CS cameras. I've tested three cameras at a time, each capturing images in 4K @20fps, without much problem.
 
 ## License/Usage
 
-If you intend on using/modifying this software you make it open source/available for anyone to download.
+If you intend on using/modifying this software you must make it open source/available for anyone to download.
 
 ## Getting Started
 
