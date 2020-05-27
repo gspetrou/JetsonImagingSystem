@@ -3,7 +3,7 @@
 
 Captures some images and sends them with telemetry somewhere via HTTP.
 
-I originally made this for [Penn State UAS](https://uas.engr.psu.edu)
+I originally made this for [Penn State UAS](https://uas.engr.psu.edu).
 
 ## License/Usage
 
