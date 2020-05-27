@@ -3,6 +3,12 @@
 
 Captures some images and sends them with telemetry somewhere via HTTP.
 
+I originally made this for [Penn State UAS](https://uas.engr.psu.edu)
+
+## License/Usage
+
+If you intend on using/modifying this software you make it open source/available for anyone to download.
+
 ## Getting Started
 
 The program is designed to make changing the multimedia backend framework pretty easy but for now only GStreamer is supported so we have to install that.
