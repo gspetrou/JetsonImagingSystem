@@ -7,7 +7,7 @@ I originally made this for [Penn State UAS](https://uas.engr.psu.edu). It was de
 
 ## License/Usage
 
-If you intend on using/modifying this software you must make it open source/available for anyone to download.
+If you intend on using/modifying this software you must make it open source/available for anyone to download, unless you are a part of Penn State UAS. Then you can do whatever you want with it.
 
 ## Getting Started
 
